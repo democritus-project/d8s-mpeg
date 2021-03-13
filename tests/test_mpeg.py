@@ -2,7 +2,7 @@
 
 import pytest
 
-from democritus_mpeg import mp3_download, mp4_download
+from d8s_mpeg import mp3_download, mp4_download
 
 
 @pytest.mark.network

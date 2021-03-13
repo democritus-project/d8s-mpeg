@@ -1,8 +1,8 @@
 # Democritus Mpeg
 
-[![PyPI](https://img.shields.io/pypi/v/democritus-mpeg.svg)](https://pypi.python.org/pypi/democritus-mpeg)
-[![Build Status](https://travis-ci.com/democritus-project/democritus-mpeg.svg?branch=main)](https://travis-ci.com/democritus-project/democritus-mpeg)
-[![codecov](https://codecov.io/gh/democritus-project/democritus-mpeg/branch/main/graph/badge.svg?token=V0WOIXRGMM)](https://codecov.io/gh/democritus-project/democritus-mpeg)
+[![PyPI](https://img.shields.io/pypi/v/d8s-mpeg.svg)](https://pypi.python.org/pypi/d8s-mpeg)
+[![Build Status](https://travis-ci.com/democritus-project/d8s-mpeg.svg?branch=main)](https://travis-ci.com/democritus-project/d8s-mpeg)
+[![codecov](https://codecov.io/gh/democritus-project/d8s-mpeg/branch/main/graph/badge.svg?token=V0WOIXRGMM)](https://codecov.io/gh/democritus-project/d8s-mpeg)
 
 Democritus functions<sup>[1]</sup> for working with mpegs.
 
