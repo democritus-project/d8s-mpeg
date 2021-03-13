@@ -4,17 +4,17 @@ set -euxo pipefail
 
 echo "Running linters and formatters..."
 
-isort democritus_mpeg/ tests/
+isort d8s_mpeg/ tests/
 
-black democritus_mpeg/ tests/
+black d8s_mpeg/ tests/
 
-mypy democritus_mpeg/ tests/
+mypy d8s_mpeg/ tests/
 
-pylint --fail-under 9 democritus_mpeg/*.py
+pylint --fail-under 9 d8s_mpeg/*.py
 
-flake8 democritus_mpeg/ tests/
+flake8 d8s_mpeg/ tests/
 
-bandit -r democritus_mpeg/
+bandit -r d8s_mpeg/
 
 # we run black again at the end to undo any odd changes made by any of the linters above
-black democritus_mpeg/ tests/
+black d8s_mpeg/ tests/
