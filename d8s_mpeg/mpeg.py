@@ -1,6 +1,6 @@
 from typing import Iterable
 
-from democritus_networking import get
+from d8s_networking import get
 
 
 def mp4_download(url: str) -> Iterable[bytes]:
