@@ -1,2 +1,2 @@
-d8s-networking
+d8s-networking==0.3.0
 importlib-metadata; python_version < '3.8'
