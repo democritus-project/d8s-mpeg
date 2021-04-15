@@ -14,9 +14,16 @@ Democritus functions<sup>[1]</sup> for working with mpegs.
 
 We use `d8s` as an abbreviation for `democritus` (you can read more about this [here](https://github.com/democritus-project/roadmap#what-is-d8s)).
 
-## Usage
+## Functions
 
-Coming soon...
+  - ```python
+    def mp4_download(url: str) -> Iterable[bytes]:
+        """."""
+    ```
+  - ```python
+    def mp3_download(url: str) -> Iterable[bytes]:
+        """."""
+    ```
 
 ## Development
 
